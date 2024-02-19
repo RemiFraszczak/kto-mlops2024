@@ -1,0 +1,4 @@
+{   "kube-context": "openshift-context",   
+    "kube-job-template-path": "kubernetes_job_template.yaml",   
+    "repository-uri": "quay.io/remi_fraszczak/kto-mlops2024/cats_dogs_other" 
+}

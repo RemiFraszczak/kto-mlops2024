@@ -1,7 +1,7 @@
 name: cats-dogs-other
 
 docker_env:
-  image: local/cats-dogs-other-train
+  image: quay.io/remi_fraszczak/kto-mlops2024/cats_dogs_other
 
 entry_points:
   main:
